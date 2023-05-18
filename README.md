@@ -61,10 +61,10 @@ DB_PASSWORD=
 Para executar o projeto certifique-se de que o  o ```CMD``` (```Prompt de Comando``` ou ```Terminal```) esteja aberto na pasta do projeto atual (```painel.chickensteen.com.br```), e execute:
 
 ```
-php artisan serve --port=6000
+php artisan serve --port=8001
 ```
 
-Automaticamente a API da Chicken Steen estará sendo executada na URL  ```http://127.0.0.1:6000```
+Automaticamente a API da Chicken Steen estará sendo executada na URL  ```http://127.0.0.1:8001```
 
 # Licensa
 
