@@ -17,7 +17,7 @@ Em caso de dúvidas sobre como o Laravel funciona, não deixe de consultar um de
 Faça Download deste repositório para a sua máquina local, ou use o comando ```git clone```:
 
 ```
-git clone https://github.com/micilini/PAINEL.chickensteen.com.br.git
+git clone https://github.com/micilini/painel.chickensteen.com.br.git
 ```
 
 > Em que local esses arquivos devem ser armazenados (clonados)?
