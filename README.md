@@ -26,6 +26,21 @@ Se você estiver começando agora, recomendamos que os arquivos deste projeto es
 
 ![Tela 04](http://chickensteen.com.br/assets/images/telas/tela-04.png)
 
+## Configurações Inicias (Raiz do Projeto)
+
+Com a raíz do projeto aberta no ```CMD``` (```Prompt de Comando``` ou ```Terminal```), execute o comando:
+
+```
+composer update
+composer dump-autoload
+```
+
+Em seguida renomeie o arquivo ```.env.example``` para ```.env```, e por fim gere uma KEY para este projeto:
+
+```
+php artisan key:generate
+```
+
 ## Configurações Iniciais (Banco de Dados)
 
 Antes de rodar o projeto, você vai precisar configurar a conexão com o seu banco de dados local, para isso certifique-se de que as configurações relacionadas ao banco de dados existentes no arquivo ```.env``` estão corretas:
